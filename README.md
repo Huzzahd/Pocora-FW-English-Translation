@@ -1,10 +1,17 @@
 # Pocora Freeware Ver. English Translation
 
-English translation project for the Freeware edition of **ふしぎな森のポコラ** (The Pocora of the Mysterious Forest) by circle Lizsoft/Marckensoft.
+Fan-made english translation project for the Freeware edition of **ふしぎな森のポコラ** (The Pocora of the Mysterious Forest) by circle Lizsoft/Marckensoft.
 
-Patch made by the FS Fan Discord (mostly me). The patch does not contain any original assets from the game or from the circle, and is intended to work exclusively with the Freeware edition of the game, and not with the deluxe edition **ふしぎな森のポコラ ハイ！** (The Pocora of the Mysterious Forest Hai!), the DAISO release or the add-on **ボイスパック プラス** (Voice Pack Plus). The patch is not intended to be sold, make money or pirate the game in any way. Only to make it more accessible to english-speaking audiences, as fans of the circle Lizsoft.
+Patch made by the FS Fan Discord (mostly me). The patch does not contain any original assets from the game or from the circle, and can only be used with an original copy of the freeware edition of the game.
 
-If you like the game, please support the original creator if you can.
+The patch is intended only to make it more accessible to english-speaking audiences, as fans of the circle Lizsoft. If you like the game, please support the original creator if you can. The full game is available for purchase on the following websites:
+
+- Vector PC Shop ([Deluxe Ed. + Voice Pack Add-on](https://pcshop.vector.co.jp/service/servlet/Catalogue.Detail.Top?ITEM_NO=SR086402)).
+- Rakuten ([Deluxe Ed.](https://books.rakuten.co.jp/rd/901300219/)) ([Voice Pack Add-on](https://books.rakuten.co.jp/rd/901300686/)) ([Deluxe Ed. + Voice Pack Add-on](https://books.rakuten.co.jp/rd/901300687/)).
+- Amisoft ([Deluxe Ed.](http://dl.amisoft.net/detail?id=AMI00194)) ([Voice Pack Add-on](http://dl.amisoft.net/detail?id=AMI00651)) ([Deluxe Ed. + Voice Pack Add-on](http://dl.amisoft.net/detail?id=AMI00655)).
+- DLSite ([Deluxe Ed.](https://www.dlsite.com/home/work/=/product_id/RJ014932.html)) ([Voice Pack Add-on](https://www.dlsite.com/home/work/=/product_id/RJ019322.html)).
+
+And also visit the game's [official website](http://lizsoft.jp/pokora/prs_products.htm).
 
 ## Patch
 
