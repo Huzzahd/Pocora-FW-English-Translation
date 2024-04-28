@@ -32,3 +32,12 @@ I'm wary of providing an executable file to a general audience. I take security 
 Although it was considered (to have more flexible string sizes and graphic assets), no code was changed from the original file, only read-only strings and graphic resources. This can be verified with some utilities like WinMerge for example. Comparing the code segment of the original version with the translated version will show that they are identical.
 
 Additionally, if you visit the FS Fan Discord, you can find files I used to create the translated version (a spreadsheet and a python script), and inspect and re-do the entire process yourself.
+
+#### Screenshots
+
+![Screenshot 1](https://i.imgur.com/0QhpJWG.png)
+![Screenshot 2](https://i.imgur.com/KDRrjKL.png)
+![Screenshot 3](https://i.imgur.com/0v5KU49.png)
+![Screenshot 4](https://i.imgur.com/0GUYhG6.png)
+![Screenshot 5](https://i.imgur.com/WhZEE25.png)
+![Screenshot 6](https://i.imgur.com/FPEhGKv.png)
