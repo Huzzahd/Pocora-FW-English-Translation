@@ -4,7 +4,7 @@ Fan-made english translation project for the Freeware edition of **ふしぎな�
 
 Patch made by the FS Fan Discord (mostly me). The patch does not contain any original assets from the game or from the circle, and can only be used with an original copy of the freeware edition of the game.
 
-The patch is intended only to make it more accessible to english-speaking audiences, as fans of the circle Lizsoft. If you like the game, please support the original creator if you can. The full game is available for purchase on the following websites:
+The patch is intended to make the game more accessible to english-speaking audiences, as fans of the circle Lizsoft. If you like the game, please support the original creator if you can. The full game is available for purchase on the following websites:
 
 - Vector PC Shop ([Deluxe Ed. + Voice Pack Add-on](https://pcshop.vector.co.jp/service/servlet/Catalogue.Detail.Top?ITEM_NO=SR086402)).
 - Rakuten ([Deluxe Ed.](https://books.rakuten.co.jp/rd/901300219/)) ([Voice Pack Add-on](https://books.rakuten.co.jp/rd/901300686/)) ([Deluxe Ed. + Voice Pack Add-on](https://books.rakuten.co.jp/rd/901300687/)).
@@ -22,6 +22,8 @@ To apply the patch, use a XDelta3 utility program such as Delta Patcher, XDeltaU
 ### Notes
 
 The game is by default in Fullscreen Mode, which, as the game is very old (2004), may not run well on OSes older than Windows XP. It is recommended you go to Options > Screen Mode and choose either Windowed Mode or Safe Fullscreen Mode.
+
+There may also be issues launching the game, as reported by some users. In these cases, changing the program's compatibility setting to Windows XP should solve it. As a last resort, you may try setting your system locale to japanese, or using a locale emulator.
 
 ## Safety
 
