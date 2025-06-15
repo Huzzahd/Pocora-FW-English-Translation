@@ -1,5 +1,7 @@
 # Pocora Freeware Ver. English Translation
 
+<a href="https://discord.gg/N68c7pt"><kbd><img src="https://drive.google.com/uc?id=1syp-QsJ9FO0Enncxra2MemebxrIVdHi8"></kbd></a>
+
 Fan-made english translation project for the Freeware edition of **ふしぎな森のポコラ** (The Pocora of the Mysterious Forest) by circle Lizsoft/Marckensoft.
 
 Patch made by the FS Fan Discord (mostly me). The patch does not contain any original assets from the game or from the circle, and can only be used with an original copy of the freeware edition of the game.
